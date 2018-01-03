@@ -1,8 +1,11 @@
 ---
-'0': T
-'1': e
-'2': s
-'3': t
+'M': T
+'A': R
+'C': I
+' ': C
+'O': K
+'S': S
+'X': ;)
 ---
 ## Mac OSX Terminal Cheatsheet ##
 
